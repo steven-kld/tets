@@ -1,0 +1,15 @@
+{
+  "name": "gdev-ui",
+  "version": "1.0.3",
+  "description": "GDEV corporate HTML report component library",
+  "main": "gdev-ui.js",
+  "files": ["gdev-ui.js", "logo-512.png"],
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steven-kld/tets"
+  },
+  "license": "UNLICENSED"
+}
